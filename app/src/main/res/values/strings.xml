@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Password">Contraseña</string>
+    <string name="Num1">Numero 1</string>
+    <string name="Num2">Numero 2</string>
+    <string name="Operaciones">Operaciones</string>
+</resources>
